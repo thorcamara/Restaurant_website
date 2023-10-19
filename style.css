@@ -197,3 +197,15 @@ img {
   font-size: 1.3rem;
   cursor: pointer;
 }
+
+.show-menu {
+  top: var(--header-height);
+}
+
+.active-link {
+  color: var(--first-color);
+}
+
+.scroll-header {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
