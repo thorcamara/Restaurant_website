@@ -281,3 +281,18 @@ img {
 .about__description {
   margin-bottom: var(--mb-3);
 }
+
+.about__img {
+  width: 280px;
+  border-radius: .5rem;
+  justify-self: center;
+}
+
+.services__container {
+  row-gap: 2.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.services__content {
+  text-align: center;
+}
