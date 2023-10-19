@@ -379,3 +379,16 @@ img {
   width: 120px;
   margin: 0 var(--mb-1);
 }
+
+.app__img {
+  width: 230px;
+  justify-self: center;
+}
+
+.contact__container {
+  text-align: center;
+}
+
+.contact__description {
+  margin-bottom: var(--mb-3);
+}
