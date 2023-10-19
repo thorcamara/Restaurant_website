@@ -184,3 +184,16 @@ img {
 .nav__logo:hover {
   color: var(--first-color);
 }
+
+.nav__link {
+  transition: .3s;
+}
+
+.nav__link:hover {
+  color: var(--first-color);
+}
+
+.nav__toggle {
+  font-size: 1.3rem;
+  cursor: pointer;
+}
