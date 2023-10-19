@@ -334,3 +334,18 @@ img {
   align-self: center;
   margin-bottom: var(--mb-2);
 }
+
+.menu__name,
+.menu__preci {
+  font-weight: var(--font-semi-bold);
+  color: var(--title-color);
+}
+
+.menu__name {
+  font-size: var(--normal-font-size);
+}
+
+.menu__detail,
+.menu__preci {
+  font-size: var(--small-font-size);
+}
