@@ -547,3 +547,9 @@ img {
     column-gap: 7rem;
   }
 }
+
+@media screen and (min-height: 721px) {
+  .home__container {
+    height: 640px;
+  }
+}
